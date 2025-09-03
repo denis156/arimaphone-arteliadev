@@ -71,7 +71,7 @@ ArimaPhone adalah aplikasi web modern yang memungkinkan pengguna untuk menjual d
 
 1. **Clone repository**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/denis156/arimaphone-arteliadev.git
    cd arimaphone-arteliadev
    ```
 
